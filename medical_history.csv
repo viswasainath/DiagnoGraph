@@ -1,0 +1,51 @@
+patient_id,previous_medical_condition,medications_used
+1,Normal,None
+2,Diabetes,Metformin
+3,Tachycardia,Beta-blocker
+4,Tachycardia,Beta-blocker
+5,Diabetes,Metformin
+6,Normal,None
+7,Hypertension,Amlodipine
+8,Diabetes,Metformin
+9,Normal,None
+10,Diabetes,Metformin
+11,Normal,None
+12,Diabetes,Metformin
+13,Hypertension,Amlodipine
+14,Diabetes,Metformin
+15,Tachycardia,Beta-blocker
+16,"Diabetes, Tachycardia","Metformin, Beta-blocker"
+17,"Hypertension, Tachycardia","Amlodipine, Beta-blocker"
+18,"Diabetes, Hypertension","Metformin, Amlodipine"
+19,Hypertension,Amlodipine
+20,Normal,None
+21,Diabetes,Metformin
+22,Tachycardia,Beta-blocker
+23,"Diabetes, Hypertension","Metformin, Amlodipine"
+24,"Diabetes, Obesity","Metformin, Lifestyle modification"
+25,Normal,None
+26,Normal,None
+27,Hypertension,Amlodipine
+28,"Diabetes, Obesity","Metformin, Lifestyle modification"
+29,"Diabetes, Hypertension, Tachycardia","Metformin, Amlodipine, Beta-blocker"
+30,"Diabetes, Hypertension","Metformin, Amlodipine"
+31,Normal,None
+32,Hypertension,Amlodipine
+33,Normal,None
+34,Hypertension,Amlodipine
+35,Hypertension,Amlodipine
+36,"Diabetes, Hypertension, Obesity","Metformin, Amlodipine, Lifestyle modification"
+37,"Hypertension, Tachycardia","Amlodipine, Beta-blocker"
+38,"Hypertension, Obesity","Amlodipine, Lifestyle modification"
+39,"Diabetes, Obesity, Tachycardia","Metformin, Lifestyle modification, Beta-blocker"
+40,"Diabetes, Hypertension","Metformin, Amlodipine"
+41,"Hypertension, Obesity","Amlodipine, Lifestyle modification"
+42,Diabetes,Metformin
+43,Normal,None
+44,Diabetes,Metformin
+45,Hypertension,Amlodipine
+46,"Diabetes, Hypertension","Metformin, Amlodipine"
+47,Tachycardia,Beta-blocker
+48,Diabetes,Metformin
+49,Normal,None
+50,Diabetes,Metformin
